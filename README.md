@@ -49,7 +49,7 @@ setelah itu jika ingin menggabungkan sel data pada table buatlah seperti dibawah
 
 ![image](https://user-images.githubusercontent.com/101658076/160272074-04c2e928-3c9b-46da-a637-2f236f378d62.png)
 
-- kemudian lihatlah hasilnya pada web 
+kemudian lihatlah hasilnya pada web 
 
 ![image](https://user-images.githubusercontent.com/101658076/160272093-8e212532-dc26-4f80-872f-08610e2f3cec.png)
 
@@ -57,9 +57,11 @@ setelah itu jika ingin menggabungkan sel data pada table buatlah seperti dibawah
 
 ![image](https://user-images.githubusercontent.com/101658076/160272113-30c0043c-bec2-4993-8bdd-6d1c28d0a93a.png)
 
-- dan kemudian lihatlah hasilnya dibwah ini
-
 ![image](https://user-images.githubusercontent.com/101658076/160272118-cd307297-7285-439d-9be1-5e776192e7f7.png)
+
+- kemudian lihat hasilnya pada web
+
+![image](https://user-images.githubusercontent.com/74331125/161076213-e3b8c667-9359-4feb-b4fb-62fbcc12ec12.png)
 
 - agar tampilan lebih menarik bisa ditambahkan CSS seperti berikut 
 
